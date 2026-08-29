@@ -1,0 +1,11 @@
+{
+  "name": "Family Saju AI",
+  "short_name": "Family Saju",
+  "description": "가족 관계를 위한 AI 사주 대화 가이드",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f1",
+  "theme_color": "#292521",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
